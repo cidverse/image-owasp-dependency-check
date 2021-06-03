@@ -1,5 +1,5 @@
 # Base
-FROM owasp/dependency-check:6.1.6
+FROM owasp/dependency-check:6.2.0
 
 # Installation
 USER root
